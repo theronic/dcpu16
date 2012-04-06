@@ -1,0 +1,30 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A921FC69-7AD1-43CE-8950-67D746F29A7D/f:dcpu16.py" caret="24" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A921FC69-7AD1-43CE-8950-67D746F29A7D/f:dcpu16.py" caret="369" fromTop="15" />
+      <File id="A921FC69-7AD1-43CE-8950-67D746F29A7D/f:dcpu16.py" caret="12" fromTop="1" />
+      <File id="A921FC69-7AD1-43CE-8950-67D746F29A7D/f:dcpu16.py" caret="110" fromTop="6" />
+      <File id="A921FC69-7AD1-43CE-8950-67D746F29A7D/f:dcpu16.py" caret="24" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
